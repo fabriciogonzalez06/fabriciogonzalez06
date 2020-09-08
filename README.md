@@ -4,10 +4,8 @@
 <p><em> Web and mobile developer
 </em></p>
 
-![Twitter Follow: angelfg06 ](https://twitter.com/angelfg06)
-[![Linkedin: fabricio-gonzalez-622077147]](https://www.linkedin.com/in/fabricio-gonzalez-622077147/)
-
-
+![Twitter : angelfg06](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-gonzalez-622077147/)](https://www.linkedin.com/in/fabricio-gonzalez-622077147/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
