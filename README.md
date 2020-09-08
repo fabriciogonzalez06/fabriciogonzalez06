@@ -26,10 +26,10 @@ const anmol = {
         },
         backEnd: {
             js: ["node", "express"],
-            c#: ["Asp.Net core 3.1"]
+            csharp: ["Asp.Net core 3.1"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: [Mongo", "MySql", "SqlServer","MariaDb"],
+        databases: ["Mongo", "MySql", "SqlServer","MariaDb"],
     },
     architecture: ["Single page applications"]
 };
