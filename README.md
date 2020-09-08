@@ -4,7 +4,7 @@
 <p><em> Web and mobile developer
 </em></p>
 
-![Twitter Follow: angelfg06 ](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+![Twitter Follow: angelfg06 ]https://twitter.com/angelfg06
 [![Linkedin: fabricio-gonzalez-622077147](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-gonzalez-622077147/)
 
 
