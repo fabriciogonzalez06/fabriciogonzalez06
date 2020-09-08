@@ -1,11 +1,11 @@
 
 <h2>Hello, I'm Angel Fabricio  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p><em> Web and mobile developer
 </em></p>
 
-![Twitter Follow](https://twitter.com/angelfg06)
-[![Linkedin: fabricio-gonzalez-622077147](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/fabricio-gonzalez-622077147/)
+![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)(https://twitter.com/angelfg06)
+[![Linkedin: fabricio-gonzalez-622077147](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-gonzalez-622077147/)
 
 
 
