@@ -19,17 +19,17 @@ const anmol = {
     code: ["Javascript", "Typescript", "C#", "Dart", "SQL"],
     askMeAbout: ["web dev", "tech", "app dev", "soccer"],
     technologies: {
-        mobileApp: ["Flutter dev"],
+        mobileApp: ["React Native"],
         frontEnd: {
-            js: ["Angular +2", "Redux","Vanilla Redux"],
+            js: ["Angular +2", "Redux","Vanilla Redux", "ReactJs", "Redux sagas", "Redux thunk", "React Context"],
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["node", "express","NestJS", "AWS","Serverless"],
             csharp: ["Asp.Net core 3.1"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["Mongo", "MySql", "SqlServer","MariaDb"],
+        databases: ["MongoDB", "MySql", "SqlServer","MariaDb","DynamoDB"],
     },
     architecture: ["Single page applications"]
 };
